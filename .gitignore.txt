@@ -1,0 +1,24 @@
+Dependency Directories
+
+node_modules
+/frontend/node_modules
+
+Logs
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+Production artifacts
+
+build
+dist
+
+Environment Variables (CRITICAL!)
+
+/backend/.env
+
+Uploaded Files (CRITICAL!)
+
+/backend/uploads
